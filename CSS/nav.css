@@ -1,0 +1,31 @@
+.navbar {
+    /* box-shadow: 1px 1px 10px 1px black; */
+    background-color:none;
+}
+.navbar span {
+    color: red;
+}
+#hov{
+    color: white;
+    font-family: 'Edu SA Beginner', cursive;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px white;
+}
+#hov:hover{
+    color: red;
+}
+#gbs{
+    color: white;
+    font-weight: bold;
+    font-family: 'Edu SA Beginner', cursive;
+    text-shadow: 2px 2px 5px white;
+}
+#gbs:hover{
+    color: red;
+}
+span:hover{
+    color: white;
+}
+span{
+    color: red;
+}
